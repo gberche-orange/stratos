@@ -37,6 +37,10 @@
       opacity: $breadcrumb-hover-opacity;
     }
   }
+  &__menu-separator {
+    height: 1px;
+    margin: 6px 0;
+  }
 }
 
 .mat-toolbar-row,
